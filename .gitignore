@@ -1,0 +1,28 @@
+# Vocabulary source documents are intentionally not distributed.
+*.pdf
+/HSKHelp-3.0.0.apk
+/HSKHelp-3.1.0.apk
+
+# Flutter, Android and IDE-generated files.
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/build/
+**/.gradle/
+**/.kotlin/
+**/.idea/
+**/*.iml
+**/local.properties
+**/__pycache__/
+*.py[cod]
+
+# Local credentials and signing material.
+**/.env
+**/.env.*
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Local editor and temporary files.
+.DS_Store
+**/*.bak
+/hskhelp/tmp_fix.txt

@@ -1,0 +1,3303 @@
+[
+ {
+  "id": 1,
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "pos": "verb",
+  "meaning": "to love",
+  "plain": "ai",
+  "answers": [
+   "ai"
+  ]
+ },
+ {
+  "id": 2,
+  "hanzi": "八",
+  "pinyin": "bā",
+  "pos": "number",
+  "meaning": "eight",
+  "plain": "ba",
+  "answers": [
+   "ba"
+  ]
+ },
+ {
+  "id": 3,
+  "hanzi": "爸爸",
+  "pinyin": "bàba",
+  "pos": "noun",
+  "meaning": "dad",
+  "plain": "baba",
+  "answers": [
+   "baba"
+  ]
+ },
+ {
+  "id": 4,
+  "hanzi": "吧",
+  "pinyin": "ba",
+  "pos": "auxiliary",
+  "meaning": "particle indicating suggestion, confirmation, or hesitation",
+  "plain": "ba",
+  "answers": [
+   "ba"
+  ]
+ },
+ {
+  "id": 5,
+  "hanzi": "白天",
+  "pinyin": "báitiān",
+  "pos": "noun",
+  "meaning": "daytime",
+  "plain": "baitian",
+  "answers": [
+   "baitian"
+  ]
+ },
+ {
+  "id": 6,
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "pos": "number",
+  "meaning": "hundred",
+  "plain": "bai",
+  "answers": [
+   "bai"
+  ]
+ },
+ {
+  "id": 7,
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "pos": "number、 （adverb）",
+  "meaning": "half; (half, semi-)",
+  "plain": "ban",
+  "answers": [
+   "ban"
+  ]
+ },
+ {
+  "id": 8,
+  "hanzi": "包子",
+  "pinyin": "bāozi",
+  "pos": "noun",
+  "meaning": "steamed stuffed bun",
+  "plain": "baozi",
+  "answers": [
+   "baozi"
+  ]
+ },
+ {
+  "id": 9,
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "pos": "noun",
+  "meaning": "cup, glass",
+  "plain": "beizi",
+  "answers": [
+   "beizi"
+  ]
+ },
+ {
+  "id": 10,
+  "hanzi": "本",
+  "pinyin": "běn",
+  "pos": "classifier",
+  "meaning": "measure word for books",
+  "plain": "ben",
+  "answers": [
+   "ben"
+  ]
+ },
+ {
+  "id": 11,
+  "hanzi": "边",
+  "pinyin": "biān",
+  "pos": "noun、suffix",
+  "meaning": "side; suffix indicating direction",
+  "plain": "bian",
+  "answers": [
+   "bian"
+  ]
+ },
+ {
+  "id": 12,
+  "hanzi": "病",
+  "pinyin": "bìng",
+  "pos": "noun、verb",
+  "meaning": "illness, disease; to be ill",
+  "plain": "bing",
+  "answers": [
+   "bing"
+  ]
+ },
+ {
+  "id": 13,
+  "hanzi": "不",
+  "pinyin": "bù",
+  "pos": "adverb",
+  "meaning": "not, no",
+  "plain": "bu",
+  "answers": [
+   "bu"
+  ]
+ },
+ {
+  "id": 14,
+  "hanzi": "不客气",
+  "pinyin": "bú kèqi",
+  "pos": "",
+  "meaning": "you're welcome",
+  "plain": "bukeqi",
+  "answers": [
+   "bukeqi"
+  ]
+ },
+ {
+  "id": 15,
+  "hanzi": "不要",
+  "pinyin": "búyào",
+  "pos": "adverb",
+  "meaning": "don't, not want",
+  "plain": "buyao",
+  "answers": [
+   "buyao"
+  ]
+ },
+ {
+  "id": 16,
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "pos": "noun",
+  "meaning": "vegetable, dish",
+  "plain": "cai",
+  "answers": [
+   "cai"
+  ]
+ },
+ {
+  "id": 17,
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "pos": "noun",
+  "meaning": "tea",
+  "plain": "cha",
+  "answers": [
+   "cha"
+  ]
+ },
+ {
+  "id": 18,
+  "hanzi": "唱",
+  "pinyin": "chàng",
+  "pos": "verb",
+  "meaning": "to sing",
+  "plain": "chang",
+  "answers": [
+   "chang"
+  ]
+ },
+ {
+  "id": 19,
+  "hanzi": "超市",
+  "pinyin": "chāoshì",
+  "pos": "noun",
+  "meaning": "supermarket",
+  "plain": "chaoshi",
+  "answers": [
+   "chaoshi"
+  ]
+ },
+ {
+  "id": 20,
+  "hanzi": "车",
+  "pinyin": "chē",
+  "pos": "noun",
+  "meaning": "vehicle, car",
+  "plain": "che",
+  "answers": [
+   "che"
+  ]
+ },
+ {
+  "id": 21,
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "pos": "verb",
+  "meaning": "to eat",
+  "plain": "chi",
+  "answers": [
+   "chi"
+  ]
+ },
+ {
+  "id": 22,
+  "hanzi": "出租车",
+  "pinyin": "chūzūchē",
+  "pos": "noun",
+  "meaning": "taxi",
+  "plain": "chuzuche",
+  "answers": [
+   "chuzuche"
+  ]
+ },
+ {
+  "id": 23,
+  "hanzi": "穿",
+  "pinyin": "chuān",
+  "pos": "verb",
+  "meaning": "to wear",
+  "plain": "chuan",
+  "answers": [
+   "chuan"
+  ]
+ },
+ {
+  "id": 24,
+  "hanzi": "打电话",
+  "pinyin": "dǎ diànhuà",
+  "pos": "",
+  "meaning": "to make a phone call",
+  "plain": "dadianhua",
+  "answers": [
+   "dadianhua"
+  ]
+ },
+ {
+  "id": 25,
+  "hanzi": "大",
+  "pinyin": "dà",
+  "pos": "adjective",
+  "meaning": "big",
+  "plain": "da",
+  "answers": [
+   "da"
+  ]
+ },
+ {
+  "id": 26,
+  "hanzi": "大家",
+  "pinyin": "dàjiā",
+  "pos": "pronoun",
+  "meaning": "everyone",
+  "plain": "dajia",
+  "answers": [
+   "dajia"
+  ]
+ },
+ {
+  "id": 27,
+  "hanzi": "大学",
+  "pinyin": "dàxué",
+  "pos": "noun",
+  "meaning": "university",
+  "plain": "daxue",
+  "answers": [
+   "daxue"
+  ]
+ },
+ {
+  "id": 28,
+  "hanzi": "大学生",
+  "pinyin": "dàxuéshēng",
+  "pos": "noun",
+  "meaning": "university student",
+  "plain": "daxuesheng",
+  "answers": [
+   "daxuesheng"
+  ]
+ },
+ {
+  "id": 29,
+  "hanzi": "到",
+  "pinyin": "dào",
+  "pos": "verb",
+  "meaning": "to arrive",
+  "plain": "dao",
+  "answers": [
+   "dao"
+  ]
+ },
+ {
+  "id": 30,
+  "hanzi": "的",
+  "pinyin": "de",
+  "pos": "auxiliary",
+  "meaning": "possessive or modifying particle",
+  "plain": "de",
+  "answers": [
+   "de"
+  ]
+ },
+ {
+  "id": 31,
+  "hanzi": "第",
+  "pinyin": "dì",
+  "pos": "prefix",
+  "meaning": "prefix for ordinal numbers",
+  "plain": "di",
+  "answers": [
+   "di"
+  ]
+ },
+ {
+  "id": 32,
+  "hanzi": "弟弟",
+  "pinyin": "dìdi",
+  "pos": "noun",
+  "meaning": "younger brother",
+  "plain": "didi",
+  "answers": [
+   "didi"
+  ]
+ },
+ {
+  "id": 33,
+  "hanzi": "点",
+  "pinyin": "diǎn",
+  "pos": "classifier、 （noun）",
+  "meaning": "measure word for small round things; (point, dot)",
+  "plain": "dian",
+  "answers": [
+   "dian"
+  ]
+ },
+ {
+  "id": 34,
+  "hanzi": "店",
+  "pinyin": "diàn",
+  "pos": "noun",
+  "meaning": "shop, store",
+  "plain": "dian",
+  "answers": [
+   "dian"
+  ]
+ },
+ {
+  "id": 35,
+  "hanzi": "电话",
+  "pinyin": "diànhuà",
+  "pos": "noun",
+  "meaning": "telephone, phone call",
+  "plain": "dianhua",
+  "answers": [
+   "dianhua"
+  ]
+ },
+ {
+  "id": 36,
+  "hanzi": "电脑",
+  "pinyin": "diànnǎo",
+  "pos": "noun",
+  "meaning": "computer",
+  "plain": "diannao",
+  "answers": [
+   "diannao"
+  ]
+ },
+ {
+  "id": 37,
+  "hanzi": "电视",
+  "pinyin": "diànshì",
+  "pos": "noun",
+  "meaning": "television",
+  "plain": "dianshi",
+  "answers": [
+   "dianshi"
+  ]
+ },
+ {
+  "id": 38,
+  "hanzi": "电影",
+  "pinyin": "diànyǐng",
+  "pos": "noun",
+  "meaning": "movie, film",
+  "plain": "dianying",
+  "answers": [
+   "dianying"
+  ]
+ },
+ {
+  "id": 39,
+  "hanzi": "电影院",
+  "pinyin": "diànyǐngyuàn",
+  "pos": "noun",
+  "meaning": "cinema",
+  "plain": "dianyingyuan",
+  "answers": [
+   "dianyingyuan"
+  ]
+ },
+ {
+  "id": 40,
+  "hanzi": "东西",
+  "pinyin": "dōngxi",
+  "pos": "noun",
+  "meaning": "thing, object",
+  "plain": "dongxi",
+  "answers": [
+   "dongxi"
+  ]
+ },
+ {
+  "id": 41,
+  "hanzi": "都",
+  "pinyin": "dōu",
+  "pos": "adverb",
+  "meaning": "all, both",
+  "plain": "dou",
+  "answers": [
+   "dou"
+  ]
+ },
+ {
+  "id": 42,
+  "hanzi": "读",
+  "pinyin": "dú",
+  "pos": "verb",
+  "meaning": "to read",
+  "plain": "du",
+  "answers": [
+   "du"
+  ]
+ },
+ {
+  "id": 43,
+  "hanzi": "读书",
+  "pinyin": "dúshū",
+  "pos": "verb",
+  "meaning": "to read a book",
+  "plain": "dushu",
+  "answers": [
+   "dushu"
+  ]
+ },
+ {
+  "id": 44,
+  "hanzi": "对",
+  "pinyin": "duì",
+  "pos": "adjective、 preposition、 （verb、 classifier）",
+  "meaning": "correct, right; to, toward, for; (to treat; pair)",
+  "plain": "dui",
+  "answers": [
+   "dui"
+  ]
+ },
+ {
+  "id": 45,
+  "hanzi": "对不起",
+  "pinyin": "duìbuqǐ",
+  "pos": "verb",
+  "meaning": "sorry",
+  "plain": "duibuqi",
+  "answers": [
+   "duibuqi"
+  ]
+ },
+ {
+  "id": 46,
+  "hanzi": "多",
+  "pinyin": "duō",
+  "pos": "adjective、verb、 pronoun、 （number、 adverb）",
+  "meaning": "many, much; to have more; how many, how much; (more, over)",
+  "plain": "duo",
+  "answers": [
+   "duo"
+  ]
+ },
+ {
+  "id": 47,
+  "hanzi": "多少",
+  "pinyin": "duōshao",
+  "pos": "pronoun",
+  "meaning": "how many, how much",
+  "plain": "duoshao",
+  "answers": [
+   "duoshao"
+  ]
+ },
+ {
+  "id": 48,
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "pos": "noun",
+  "meaning": "son",
+  "plain": "erzi",
+  "answers": [
+   "erzi"
+  ]
+ },
+ {
+  "id": 49,
+  "hanzi": "二",
+  "pinyin": "èr",
+  "pos": "number",
+  "meaning": "two",
+  "plain": "er",
+  "answers": [
+   "er"
+  ]
+ },
+ {
+  "id": 50,
+  "hanzi": "饭",
+  "pinyin": "fàn",
+  "pos": "noun",
+  "meaning": "cooked rice, meal",
+  "plain": "fan",
+  "answers": [
+   "fan"
+  ]
+ },
+ {
+  "id": 51,
+  "hanzi": "饭店",
+  "pinyin": "fàndiàn",
+  "pos": "noun",
+  "meaning": "restaurant",
+  "plain": "fandian",
+  "answers": [
+   "fandian"
+  ]
+ },
+ {
+  "id": 52,
+  "hanzi": "房间",
+  "pinyin": "fángjiān",
+  "pos": "noun",
+  "meaning": "room",
+  "plain": "fangjian",
+  "answers": [
+   "fangjian"
+  ]
+ },
+ {
+  "id": 53,
+  "hanzi": "非常",
+  "pinyin": "fēicháng",
+  "pos": "adverb",
+  "meaning": "very, extremely",
+  "plain": "feichang",
+  "answers": [
+   "feichang"
+  ]
+ },
+ {
+  "id": 54,
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "pos": "noun",
+  "meaning": "airplane",
+  "plain": "feiji",
+  "answers": [
+   "feiji"
+  ]
+ },
+ {
+  "id": 55,
+  "hanzi": "分",
+  "pinyin": "fēn",
+  "pos": "classifier、 （verb、noun）",
+  "meaning": "minute; (to divide, to separate; component, part)",
+  "plain": "fen",
+  "answers": [
+   "fen"
+  ]
+ },
+ {
+  "id": 56,
+  "hanzi": "分钟",
+  "pinyin": "fēnzhōng",
+  "pos": "classifier",
+  "meaning": "minute",
+  "plain": "fenzhong",
+  "answers": [
+   "fenzhong"
+  ]
+ },
+ {
+  "id": 57,
+  "hanzi": "高兴",
+  "pinyin": "gāoxìng",
+  "pos": "adjective",
+  "meaning": "happy, glad",
+  "plain": "gaoxing",
+  "answers": [
+   "gaoxing"
+  ]
+ },
+ {
+  "id": 58,
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "pos": "noun",
+  "meaning": "song",
+  "plain": "ge",
+  "answers": [
+   "ge"
+  ]
+ },
+ {
+  "id": 59,
+  "hanzi": "哥哥",
+  "pinyin": "gēge",
+  "pos": "noun",
+  "meaning": "older brother",
+  "plain": "gege",
+  "answers": [
+   "gege"
+  ]
+ },
+ {
+  "id": 60,
+  "hanzi": "个",
+  "pinyin": "gè",
+  "pos": "classifier",
+  "meaning": "measure word for general objects",
+  "plain": "ge",
+  "answers": [
+   "ge"
+  ]
+ },
+ {
+  "id": 61,
+  "hanzi": "给",
+  "pinyin": "gěi",
+  "pos": "verb、 （preposition）",
+  "meaning": "to give; (to, for)",
+  "plain": "gei",
+  "answers": [
+   "gei"
+  ]
+ },
+ {
+  "id": 62,
+  "hanzi": "公司",
+  "pinyin": "gōngsī",
+  "pos": "noun",
+  "meaning": "company",
+  "plain": "gongsi",
+  "answers": [
+   "gongsi"
+  ]
+ },
+ {
+  "id": 63,
+  "hanzi": "工作",
+  "pinyin": "gōngzuò",
+  "pos": "verb、noun",
+  "meaning": "work; to work",
+  "plain": "gongzuo",
+  "answers": [
+   "gongzuo"
+  ]
+ },
+ {
+  "id": 64,
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "pos": "noun",
+  "meaning": "dog",
+  "plain": "gou",
+  "answers": [
+   "gou"
+  ]
+ },
+ {
+  "id": 65,
+  "hanzi": "贵",
+  "pinyin": "guì",
+  "pos": "adjective",
+  "meaning": "expensive",
+  "plain": "gui",
+  "answers": [
+   "gui"
+  ]
+ },
+ {
+  "id": 66,
+  "hanzi": "国",
+  "pinyin": "guó",
+  "pos": "noun",
+  "meaning": "country",
+  "plain": "guo",
+  "answers": [
+   "guo"
+  ]
+ },
+ {
+  "id": 67,
+  "hanzi": "还",
+  "pinyin": "hái",
+  "pos": "adverb",
+  "meaning": "still, also; quite",
+  "plain": "hai",
+  "answers": [
+   "hai"
+  ]
+ },
+ {
+  "id": 68,
+  "hanzi": "孩子",
+  "pinyin": "háizi",
+  "pos": "noun",
+  "meaning": "child",
+  "plain": "haizi",
+  "answers": [
+   "haizi"
+  ]
+ },
+ {
+  "id": 69,
+  "hanzi": "汉语",
+  "pinyin": "Hànyǔ",
+  "pos": "noun",
+  "meaning": "Chinese language",
+  "plain": "hanyu",
+  "answers": [
+   "hanyu"
+  ]
+ },
+ {
+  "id": 70,
+  "hanzi": "汉字",
+  "pinyin": "Hànzì",
+  "pos": "noun",
+  "meaning": "Chinese character",
+  "plain": "hanzi",
+  "answers": [
+   "hanzi"
+  ]
+ },
+ {
+  "id": 71,
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "pos": "adjective、 （adverb）、 （verb）",
+  "meaning": "good; (well); (to be fond of)",
+  "plain": "hao",
+  "answers": [
+   "hao"
+  ]
+ },
+ {
+  "id": 72,
+  "hanzi": "好吃",
+  "pinyin": "hǎochī",
+  "pos": "adjective",
+  "meaning": "delicious, tasty",
+  "plain": "haochi",
+  "answers": [
+   "haochi"
+  ]
+ },
+ {
+  "id": 73,
+  "hanzi": "好看",
+  "pinyin": "hǎokàn",
+  "pos": "adjective",
+  "meaning": "good-looking",
+  "plain": "haokan",
+  "answers": [
+   "haokan"
+  ]
+ },
+ {
+  "id": 74,
+  "hanzi": "好听",
+  "pinyin": "hǎotīng",
+  "pos": "adjective",
+  "meaning": "pleasant to listen to",
+  "plain": "haoting",
+  "answers": [
+   "haoting"
+  ]
+ },
+ {
+  "id": 75,
+  "hanzi": "好玩儿",
+  "pinyin": "hǎowánr",
+  "pos": "adjective",
+  "meaning": "fun, amusing",
+  "plain": "haowanr",
+  "answers": [
+   "haowanr"
+  ]
+ },
+ {
+  "id": 76,
+  "hanzi": "号",
+  "pinyin": "hào",
+  "pos": "noun、classifier",
+  "meaning": "number; measure word for people, items",
+  "plain": "hao",
+  "answers": [
+   "hao"
+  ]
+ },
+ {
+  "id": 77,
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "pos": "verb",
+  "meaning": "to drink",
+  "plain": "he",
+  "answers": [
+   "he"
+  ]
+ },
+ {
+  "id": 78,
+  "hanzi": "和",
+  "pinyin": "hé",
+  "pos": "preposition、 conjunction",
+  "meaning": "and, with",
+  "plain": "he",
+  "answers": [
+   "he"
+  ]
+ },
+ {
+  "id": 79,
+  "hanzi": "很",
+  "pinyin": "hěn",
+  "pos": "adverb",
+  "meaning": "very",
+  "plain": "hen",
+  "answers": [
+   "hen"
+  ]
+ },
+ {
+  "id": 80,
+  "hanzi": "后",
+  "pinyin": "hòu",
+  "pos": "noun",
+  "meaning": "behind, later",
+  "plain": "hou",
+  "answers": [
+   "hou"
+  ]
+ },
+ {
+  "id": 81,
+  "hanzi": "回",
+  "pinyin": "huí",
+  "pos": "verb、 （classifier）",
+  "meaning": "to return; (measure word for times)",
+  "plain": "hui",
+  "answers": [
+   "hui"
+  ]
+ },
+ {
+  "id": 82,
+  "hanzi": "会",
+  "pinyin": "huì",
+  "pos": "verb",
+  "meaning": "can, to be able to",
+  "plain": "hui",
+  "answers": [
+   "hui"
+  ]
+ },
+ {
+  "id": 83,
+  "hanzi": "火车",
+  "pinyin": "huǒchē",
+  "pos": "noun",
+  "meaning": "train",
+  "plain": "huoche",
+  "answers": [
+   "huoche"
+  ]
+ },
+ {
+  "id": 84,
+  "hanzi": "鸡蛋",
+  "pinyin": "jīdàn",
+  "pos": "noun",
+  "meaning": "egg",
+  "plain": "jidan",
+  "answers": [
+   "jidan"
+  ]
+ },
+ {
+  "id": 85,
+  "hanzi": "几",
+  "pinyin": "jǐ",
+  "pos": "pronoun、 number",
+  "meaning": "how many, a few",
+  "plain": "ji",
+  "answers": [
+   "ji"
+  ]
+ },
+ {
+  "id": 86,
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "pos": "noun、classifier、 （suffix）",
+  "meaning": "home, family; measure word for families; (suffix indicating a person specializing in something)",
+  "plain": "jia",
+  "answers": [
+   "jia"
+  ]
+ },
+ {
+  "id": 87,
+  "hanzi": "家人",
+  "pinyin": "jiārén",
+  "pos": "noun",
+  "meaning": "family member",
+  "plain": "jiaren",
+  "answers": [
+   "jiaren"
+  ]
+ },
+ {
+  "id": 88,
+  "hanzi": "见",
+  "pinyin": "jiàn",
+  "pos": "verb",
+  "meaning": "to see",
+  "plain": "jian",
+  "answers": [
+   "jian"
+  ]
+ },
+ {
+  "id": 89,
+  "hanzi": "件",
+  "pinyin": "jiàn",
+  "pos": "classifier",
+  "meaning": "measure word for items",
+  "plain": "jian",
+  "answers": [
+   "jian"
+  ]
+ },
+ {
+  "id": 90,
+  "hanzi": "饺子",
+  "pinyin": "jiǎozi",
+  "pos": "noun",
+  "meaning": "dumpling",
+  "plain": "jiaozi",
+  "answers": [
+   "jiaozi"
+  ]
+ },
+ {
+  "id": 91,
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "pos": "verb、 （preposition）",
+  "meaning": "to be called, to call; to make; (by)",
+  "plain": "jiao",
+  "answers": [
+   "jiao"
+  ]
+ },
+ {
+  "id": 92,
+  "hanzi": "姐姐",
+  "pinyin": "jiějie",
+  "pos": "noun",
+  "meaning": "older sister",
+  "plain": "jiejie",
+  "answers": [
+   "jiejie"
+  ]
+ },
+ {
+  "id": 93,
+  "hanzi": "今年",
+  "pinyin": "jīnnián",
+  "pos": "noun",
+  "meaning": "this year",
+  "plain": "jinnian",
+  "answers": [
+   "jinnian"
+  ]
+ },
+ {
+  "id": 94,
+  "hanzi": "今天",
+  "pinyin": "jīntiān",
+  "pos": "noun",
+  "meaning": "today",
+  "plain": "jintian",
+  "answers": [
+   "jintian"
+  ]
+ },
+ {
+  "id": 95,
+  "hanzi": "九",
+  "pinyin": "jiǔ",
+  "pos": "number",
+  "meaning": "nine",
+  "plain": "jiu",
+  "answers": [
+   "jiu"
+  ]
+ },
+ {
+  "id": 96,
+  "hanzi": "觉得",
+  "pinyin": "juéde",
+  "pos": "verb",
+  "meaning": "to feel, to think",
+  "plain": "juede",
+  "answers": [
+   "juede"
+  ]
+ },
+ {
+  "id": 97,
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "pos": "verb",
+  "meaning": "to open",
+  "plain": "kai",
+  "answers": [
+   "kai"
+  ]
+ },
+ {
+  "id": 98,
+  "hanzi": "开车",
+  "pinyin": "kāichē",
+  "pos": "verb",
+  "meaning": "to drive",
+  "plain": "kaiche",
+  "answers": [
+   "kaiche"
+  ]
+ },
+ {
+  "id": 99,
+  "hanzi": "看",
+  "pinyin": "kàn",
+  "pos": "verb",
+  "meaning": "to see, to look",
+  "plain": "kan",
+  "answers": [
+   "kan"
+  ]
+ },
+ {
+  "id": 100,
+  "hanzi": "看病",
+  "pinyin": "kànbìng",
+  "pos": "verb",
+  "meaning": "to see a doctor",
+  "plain": "kanbing",
+  "answers": [
+   "kanbing"
+  ]
+ },
+ {
+  "id": 101,
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "pos": "verb",
+  "meaning": "to see",
+  "plain": "kanjian",
+  "answers": [
+   "kanjian"
+  ]
+ },
+ {
+  "id": 102,
+  "hanzi": "可以",
+  "pinyin": "kěyǐ",
+  "pos": "verb、adjective",
+  "meaning": "can, may; okay, fine",
+  "plain": "keyi",
+  "answers": [
+   "keyi"
+  ]
+ },
+ {
+  "id": 103,
+  "hanzi": "课",
+  "pinyin": "kè",
+  "pos": "noun",
+  "meaning": "class, lesson",
+  "plain": "ke",
+  "answers": [
+   "ke"
+  ]
+ },
+ {
+  "id": 104,
+  "hanzi": "口",
+  "pinyin": "kǒu",
+  "pos": "noun、classifier",
+  "meaning": "mouth; measure word for family members, bites",
+  "plain": "kou",
+  "answers": [
+   "kou"
+  ]
+ },
+ {
+  "id": 105,
+  "hanzi": "块",
+  "pinyin": "kuài",
+  "pos": "classifier",
+  "meaning": "measure word for pieces, chunks, money",
+  "plain": "kuai",
+  "answers": [
+   "kuai"
+  ]
+ },
+ {
+  "id": 106,
+  "hanzi": "来",
+  "pinyin": "lái",
+  "pos": "verb",
+  "meaning": "to come",
+  "plain": "lai",
+  "answers": [
+   "lai"
+  ]
+ },
+ {
+  "id": 107,
+  "hanzi": "老师",
+  "pinyin": "lǎoshī",
+  "pos": "noun",
+  "meaning": "teacher",
+  "plain": "laoshi",
+  "answers": [
+   "laoshi"
+  ]
+ },
+ {
+  "id": 108,
+  "hanzi": "了",
+  "pinyin": "le",
+  "pos": "auxiliary",
+  "meaning": "particle indicating completed action or change of state",
+  "plain": "le",
+  "answers": [
+   "le"
+  ]
+ },
+ {
+  "id": 109,
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "pos": "adjective",
+  "meaning": "cold",
+  "plain": "leng",
+  "answers": [
+   "leng"
+  ]
+ },
+ {
+  "id": 110,
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "pos": "noun",
+  "meaning": "inside, in, mile",
+  "plain": "li",
+  "answers": [
+   "li"
+  ]
+ },
+ {
+  "id": 111,
+  "hanzi": "两",
+  "pinyin": "liǎng",
+  "pos": "number",
+  "meaning": "two",
+  "plain": "liang",
+  "answers": [
+   "liang"
+  ]
+ },
+ {
+  "id": 112,
+  "hanzi": "零",
+  "pinyin": "líng",
+  "pos": "number",
+  "meaning": "zero",
+  "plain": "ling",
+  "answers": [
+   "ling"
+  ]
+ },
+ {
+  "id": 113,
+  "hanzi": "六",
+  "pinyin": "liù",
+  "pos": "number",
+  "meaning": "six",
+  "plain": "liu",
+  "answers": [
+   "liu"
+  ]
+ },
+ {
+  "id": 114,
+  "hanzi": "妈妈",
+  "pinyin": "māma",
+  "pos": "noun",
+  "meaning": "mom",
+  "plain": "mama",
+  "answers": [
+   "mama"
+  ]
+ },
+ {
+  "id": 115,
+  "hanzi": "吗",
+  "pinyin": "ma",
+  "pos": "auxiliary",
+  "meaning": "question particle",
+  "plain": "ma",
+  "answers": [
+   "ma"
+  ]
+ },
+ {
+  "id": 116,
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "pos": "verb",
+  "meaning": "to buy",
+  "plain": "mai",
+  "answers": [
+   "mai"
+  ]
+ },
+ {
+  "id": 117,
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "pos": "verb",
+  "meaning": "to sell",
+  "plain": "mai",
+  "answers": [
+   "mai"
+  ]
+ },
+ {
+  "id": 118,
+  "hanzi": "忙",
+  "pinyin": "máng",
+  "pos": "adjective、verb",
+  "meaning": "busy; to be busy",
+  "plain": "mang",
+  "answers": [
+   "mang"
+  ]
+ },
+ {
+  "id": 119,
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "pos": "noun",
+  "meaning": "cat",
+  "plain": "mao",
+  "answers": [
+   "mao"
+  ]
+ },
+ {
+  "id": 120,
+  "hanzi": "没关系",
+  "pinyin": "méi guānxi",
+  "pos": "",
+  "meaning": "never mind, it's okay",
+  "plain": "meiguanxi",
+  "answers": [
+   "meiguanxi"
+  ]
+ },
+ {
+  "id": 121,
+  "hanzi": "没事",
+  "pinyin": "méishì",
+  "pos": "verb",
+  "meaning": "to have nothing to do, it doesn't matter",
+  "plain": "meishi",
+  "answers": [
+   "meishi"
+  ]
+ },
+ {
+  "id": 122,
+  "hanzi": "没有",
+  "pinyin": "méiyǒu",
+  "pos": "verb、adverb",
+  "meaning": "to not have; have not",
+  "plain": "meiyou",
+  "answers": [
+   "meiyou"
+  ]
+ },
+ {
+  "id": 123,
+  "hanzi": "妹妹",
+  "pinyin": "mèimei",
+  "pos": "noun",
+  "meaning": "younger sister",
+  "plain": "meimei",
+  "answers": [
+   "meimei"
+  ]
+ },
+ {
+  "id": 124,
+  "hanzi": "们",
+  "pinyin": "men",
+  "pos": "suffix",
+  "meaning": "plural suffix for pronouns and nouns",
+  "plain": "men",
+  "answers": [
+   "men"
+  ]
+ },
+ {
+  "id": 125,
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "pos": "noun",
+  "meaning": "cooked rice",
+  "plain": "mifan",
+  "answers": [
+   "mifan"
+  ]
+ },
+ {
+  "id": 126,
+  "hanzi": "面包",
+  "pinyin": "miànbāo",
+  "pos": "noun",
+  "meaning": "bread",
+  "plain": "mianbao",
+  "answers": [
+   "mianbao"
+  ]
+ },
+ {
+  "id": 127,
+  "hanzi": "面条儿",
+  "pinyin": "miàntiáor",
+  "pos": "noun",
+  "meaning": "noodles",
+  "plain": "miantiaor",
+  "answers": [
+   "miantiaor"
+  ]
+ },
+ {
+  "id": 128,
+  "hanzi": "明年",
+  "pinyin": "míngnián",
+  "pos": "noun",
+  "meaning": "next year",
+  "plain": "mingnian",
+  "answers": [
+   "mingnian"
+  ]
+ },
+ {
+  "id": 129,
+  "hanzi": "明天",
+  "pinyin": "míngtiān",
+  "pos": "noun",
+  "meaning": "tomorrow",
+  "plain": "mingtian",
+  "answers": [
+   "mingtian"
+  ]
+ },
+ {
+  "id": 130,
+  "hanzi": "名字",
+  "pinyin": "míngzi",
+  "pos": "noun",
+  "meaning": "name",
+  "plain": "mingzi",
+  "answers": [
+   "mingzi"
+  ]
+ },
+ {
+  "id": 131,
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "pos": "pronoun",
+  "meaning": "which",
+  "plain": "na",
+  "answers": [
+   "na"
+  ]
+ },
+ {
+  "id": 132,
+  "hanzi": "哪个",
+  "pinyin": "nǎge",
+  "pos": "pronoun",
+  "meaning": "which one",
+  "plain": "nage",
+  "answers": [
+   "nage"
+  ]
+ },
+ {
+  "id": 133,
+  "hanzi": "哪里",
+  "pinyin": "nǎlǐ",
+  "pos": "pronoun",
+  "meaning": "where",
+  "plain": "nali",
+  "answers": [
+   "nali"
+  ]
+ },
+ {
+  "id": 134,
+  "hanzi": "哪儿",
+  "pinyin": "nǎr",
+  "pos": "pronoun",
+  "meaning": "where",
+  "plain": "nar",
+  "answers": [
+   "nar"
+  ]
+ },
+ {
+  "id": 135,
+  "hanzi": "哪些",
+  "pinyin": "nǎxiē",
+  "pos": "pronoun",
+  "meaning": "which ones",
+  "plain": "naxie",
+  "answers": [
+   "naxie"
+  ]
+ },
+ {
+  "id": 136,
+  "hanzi": "那",
+  "pinyin": "nà",
+  "pos": "pronoun、 （conjunction）",
+  "meaning": "that; (then)",
+  "plain": "na",
+  "answers": [
+   "na"
+  ]
+ },
+ {
+  "id": 137,
+  "hanzi": "那边",
+  "pinyin": "nàbiān",
+  "pos": "pronoun",
+  "meaning": "over there",
+  "plain": "nabian",
+  "answers": [
+   "nabian"
+  ]
+ },
+ {
+  "id": 138,
+  "hanzi": "那个",
+  "pinyin": "nàge",
+  "pos": "pronoun",
+  "meaning": "that one",
+  "plain": "nage",
+  "answers": [
+   "nage"
+  ]
+ },
+ {
+  "id": 139,
+  "hanzi": "那里",
+  "pinyin": "nàlǐ",
+  "pos": "pronoun",
+  "meaning": "there",
+  "plain": "nali",
+  "answers": [
+   "nali"
+  ]
+ },
+ {
+  "id": 140,
+  "hanzi": "那儿",
+  "pinyin": "nàr",
+  "pos": "pronoun",
+  "meaning": "there",
+  "plain": "nar",
+  "answers": [
+   "nar"
+  ]
+ },
+ {
+  "id": 141,
+  "hanzi": "那些",
+  "pinyin": "nàxiē",
+  "pos": "pronoun",
+  "meaning": "those",
+  "plain": "naxie",
+  "answers": [
+   "naxie"
+  ]
+ },
+ {
+  "id": 142,
+  "hanzi": "男",
+  "pinyin": "nán",
+  "pos": "adjective",
+  "meaning": "male",
+  "plain": "nan",
+  "answers": [
+   "nan"
+  ]
+ },
+ {
+  "id": 143,
+  "hanzi": "男朋友",
+  "pinyin": "nánpéngyou",
+  "pos": "noun",
+  "meaning": "boyfriend",
+  "plain": "nanpengyou",
+  "answers": [
+   "nanpengyou"
+  ]
+ },
+ {
+  "id": 144,
+  "hanzi": "呢",
+  "pinyin": "ne",
+  "pos": "auxiliary",
+  "meaning": "question or continuation particle",
+  "plain": "ne",
+  "answers": [
+   "ne"
+  ]
+ },
+ {
+  "id": 145,
+  "hanzi": "能",
+  "pinyin": "néng",
+  "pos": "verb",
+  "meaning": "can, be able to",
+  "plain": "neng",
+  "answers": [
+   "neng"
+  ]
+ },
+ {
+  "id": 146,
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "pos": "pronoun",
+  "meaning": "you",
+  "plain": "ni",
+  "answers": [
+   "ni"
+  ]
+ },
+ {
+  "id": 147,
+  "hanzi": "你好",
+  "pinyin": "nǐ hǎo",
+  "pos": "",
+  "meaning": "hello",
+  "plain": "nihao",
+  "answers": [
+   "nihao"
+  ]
+ },
+ {
+  "id": 148,
+  "hanzi": "你们",
+  "pinyin": "nǐmen",
+  "pos": "pronoun",
+  "meaning": "you plural",
+  "plain": "nimen",
+  "answers": [
+   "nimen"
+  ]
+ },
+ {
+  "id": 149,
+  "hanzi": "年",
+  "pinyin": "nián",
+  "pos": "noun、classifier",
+  "meaning": "year; measure word for years",
+  "plain": "nian",
+  "answers": [
+   "nian"
+  ]
+ },
+ {
+  "id": 150,
+  "hanzi": "您",
+  "pinyin": "nín",
+  "pos": "pronoun",
+  "meaning": "you",
+  "plain": "nin",
+  "answers": [
+   "nin"
+  ]
+ },
+ {
+  "id": 151,
+  "hanzi": "牛奶",
+  "pinyin": "niúnǎi",
+  "pos": "noun",
+  "meaning": "milk",
+  "plain": "niunai",
+  "answers": [
+   "niunai"
+  ]
+ },
+ {
+  "id": 152,
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "pos": "adjective",
+  "meaning": "female",
+  "plain": "nv",
+  "answers": [
+   "nv"
+  ]
+ },
+ {
+  "id": 153,
+  "hanzi": "女儿",
+  "pinyin": "nǚ’ér",
+  "pos": "noun",
+  "meaning": "daughter",
+  "plain": "nver",
+  "answers": [
+   "nver"
+  ]
+ },
+ {
+  "id": 154,
+  "hanzi": "女朋友",
+  "pinyin": "nǚpéngyou",
+  "pos": "noun",
+  "meaning": "girlfriend",
+  "plain": "nvpengyou",
+  "answers": [
+   "nvpengyou"
+  ]
+ },
+ {
+  "id": 155,
+  "hanzi": "女士",
+  "pinyin": "nǚshì",
+  "pos": "noun",
+  "meaning": "lady, Ms.",
+  "plain": "nvshi",
+  "answers": [
+   "nvshi"
+  ]
+ },
+ {
+  "id": 156,
+  "hanzi": "朋友",
+  "pinyin": "péngyou",
+  "pos": "noun",
+  "meaning": "friend",
+  "plain": "pengyou",
+  "answers": [
+   "pengyou"
+  ]
+ },
+ {
+  "id": 157,
+  "hanzi": "便宜",
+  "pinyin": "piányi",
+  "pos": "adjective",
+  "meaning": "cheap",
+  "plain": "pianyi",
+  "answers": [
+   "pianyi"
+  ]
+ },
+ {
+  "id": 158,
+  "hanzi": "漂亮",
+  "pinyin": "piàoliang",
+  "pos": "adjective",
+  "meaning": "beautiful",
+  "plain": "piaoliang",
+  "answers": [
+   "piaoliang"
+  ]
+ },
+ {
+  "id": 159,
+  "hanzi": "苹果",
+  "pinyin": "píngguǒ",
+  "pos": "noun",
+  "meaning": "apple",
+  "plain": "pingguo",
+  "answers": [
+   "pingguo"
+  ]
+ },
+ {
+  "id": 160,
+  "hanzi": "七",
+  "pinyin": "qī",
+  "pos": "number",
+  "meaning": "seven",
+  "plain": "qi",
+  "answers": [
+   "qi"
+  ]
+ },
+ {
+  "id": 161,
+  "hanzi": "起床",
+  "pinyin": "qǐchuáng",
+  "pos": "verb",
+  "meaning": "to get up",
+  "plain": "qichuang",
+  "answers": [
+   "qichuang"
+  ]
+ },
+ {
+  "id": 162,
+  "hanzi": "千",
+  "pinyin": "qiān",
+  "pos": "number",
+  "meaning": "thousand",
+  "plain": "qian",
+  "answers": [
+   "qian"
+  ]
+ },
+ {
+  "id": 163,
+  "hanzi": "前",
+  "pinyin": "qián",
+  "pos": "noun",
+  "meaning": "front, before",
+  "plain": "qian",
+  "answers": [
+   "qian"
+  ]
+ },
+ {
+  "id": 164,
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "pos": "noun",
+  "meaning": "money",
+  "plain": "qian",
+  "answers": [
+   "qian"
+  ]
+ },
+ {
+  "id": 165,
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "pos": "verb",
+  "meaning": "please",
+  "plain": "qing",
+  "answers": [
+   "qing"
+  ]
+ },
+ {
+  "id": 166,
+  "hanzi": "请问",
+  "pinyin": "qǐngwèn",
+  "pos": "verb",
+  "meaning": "may I ask",
+  "plain": "qingwen",
+  "answers": [
+   "qingwen"
+  ]
+ },
+ {
+  "id": 167,
+  "hanzi": "去",
+  "pinyin": "qù",
+  "pos": "verb",
+  "meaning": "to go",
+  "plain": "qu",
+  "answers": [
+   "qu"
+  ]
+ },
+ {
+  "id": 168,
+  "hanzi": "去年",
+  "pinyin": "qùnián",
+  "pos": "noun",
+  "meaning": "last year",
+  "plain": "qunian",
+  "answers": [
+   "qunian"
+  ]
+ },
+ {
+  "id": 169,
+  "hanzi": "热",
+  "pinyin": "rè",
+  "pos": "adjective",
+  "meaning": "hot",
+  "plain": "re",
+  "answers": [
+   "re"
+  ]
+ },
+ {
+  "id": 170,
+  "hanzi": "人",
+  "pinyin": "rén",
+  "pos": "noun",
+  "meaning": "person",
+  "plain": "ren",
+  "answers": [
+   "ren"
+  ]
+ },
+ {
+  "id": 171,
+  "hanzi": "认识",
+  "pinyin": "rènshi",
+  "pos": "verb",
+  "meaning": "to know, to recognize",
+  "plain": "renshi",
+  "answers": [
+   "renshi"
+  ]
+ },
+ {
+  "id": 172,
+  "hanzi": "日",
+  "pinyin": "rì",
+  "pos": "classifier、 （noun）",
+  "meaning": "measure word for days; (sun)",
+  "plain": "ri",
+  "answers": [
+   "ri"
+  ]
+ },
+ {
+  "id": 173,
+  "hanzi": "三",
+  "pinyin": "sān",
+  "pos": "number",
+  "meaning": "three",
+  "plain": "san",
+  "answers": [
+   "san"
+  ]
+ },
+ {
+  "id": 174,
+  "hanzi": "商店",
+  "pinyin": "shāngdiàn",
+  "pos": "noun",
+  "meaning": "store, shop",
+  "plain": "shangdian",
+  "answers": [
+   "shangdian"
+  ]
+ },
+ {
+  "id": 175,
+  "hanzi": "上",
+  "pinyin": "shàng",
+  "pos": "noun、verb",
+  "meaning": "up, above; to go up",
+  "plain": "shang",
+  "answers": [
+   "shang"
+  ]
+ },
+ {
+  "id": 176,
+  "hanzi": "上班",
+  "pinyin": "shàngbān",
+  "pos": "verb",
+  "meaning": "to go to work",
+  "plain": "shangban",
+  "answers": [
+   "shangban"
+  ]
+ },
+ {
+  "id": 177,
+  "hanzi": "上课",
+  "pinyin": "shàngkè",
+  "pos": "verb",
+  "meaning": "to attend class",
+  "plain": "shangke",
+  "answers": [
+   "shangke"
+  ]
+ },
+ {
+  "id": 178,
+  "hanzi": "上午",
+  "pinyin": "shàngwǔ",
+  "pos": "noun",
+  "meaning": "morning",
+  "plain": "shangwu",
+  "answers": [
+   "shangwu"
+  ]
+ },
+ {
+  "id": 179,
+  "hanzi": "上学",
+  "pinyin": "shàngxué",
+  "pos": "verb",
+  "meaning": "to go to school",
+  "plain": "shangxue",
+  "answers": [
+   "shangxue"
+  ]
+ },
+ {
+  "id": 180,
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "pos": "adjective、verb",
+  "meaning": "few, little; to lack",
+  "plain": "shao",
+  "answers": [
+   "shao"
+  ]
+ },
+ {
+  "id": 181,
+  "hanzi": "谁",
+  "pinyin": "shéi/shuí",
+  "pos": "pronoun",
+  "meaning": "who",
+  "plain": "shei/shui",
+  "answers": [
+   "shei",
+   "shui"
+  ]
+ },
+ {
+  "id": 182,
+  "hanzi": "什么",
+  "pinyin": "shénme",
+  "pos": "pronoun",
+  "meaning": "what",
+  "plain": "shenme",
+  "answers": [
+   "shenme"
+  ]
+ },
+ {
+  "id": 183,
+  "hanzi": "生病",
+  "pinyin": "shēngbìng",
+  "pos": "verb",
+  "meaning": "to get sick",
+  "plain": "shengbing",
+  "answers": [
+   "shengbing"
+  ]
+ },
+ {
+  "id": 184,
+  "hanzi": "十",
+  "pinyin": "shí",
+  "pos": "number",
+  "meaning": "ten",
+  "plain": "shi",
+  "answers": [
+   "shi"
+  ]
+ },
+ {
+  "id": 185,
+  "hanzi": "时候",
+  "pinyin": "shíhou",
+  "pos": "noun",
+  "meaning": "moment, time",
+  "plain": "shihou",
+  "answers": [
+   "shihou"
+  ]
+ },
+ {
+  "id": 186,
+  "hanzi": "时间",
+  "pinyin": "shíjiān",
+  "pos": "noun",
+  "meaning": "time",
+  "plain": "shijian",
+  "answers": [
+   "shijian"
+  ]
+ },
+ {
+  "id": 187,
+  "hanzi": "事",
+  "pinyin": "shì",
+  "pos": "noun",
+  "meaning": "matter, thing",
+  "plain": "shi",
+  "answers": [
+   "shi"
+  ]
+ },
+ {
+  "id": 188,
+  "hanzi": "是",
+  "pinyin": "shì",
+  "pos": "verb",
+  "meaning": "to be",
+  "plain": "shi",
+  "answers": [
+   "shi"
+  ]
+ },
+ {
+  "id": 189,
+  "hanzi": "手机",
+  "pinyin": "shǒujī",
+  "pos": "noun",
+  "meaning": "cell phone",
+  "plain": "shouji",
+  "answers": [
+   "shouji"
+  ]
+ },
+ {
+  "id": 190,
+  "hanzi": "书",
+  "pinyin": "shū",
+  "pos": "noun",
+  "meaning": "book",
+  "plain": "shu",
+  "answers": [
+   "shu"
+  ]
+ },
+ {
+  "id": 191,
+  "hanzi": "书店",
+  "pinyin": "shūdiàn",
+  "pos": "noun",
+  "meaning": "bookstore",
+  "plain": "shudian",
+  "answers": [
+   "shudian"
+  ]
+ },
+ {
+  "id": 192,
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "pos": "noun",
+  "meaning": "water",
+  "plain": "shui",
+  "answers": [
+   "shui"
+  ]
+ },
+ {
+  "id": 193,
+  "hanzi": "水果",
+  "pinyin": "shuǐguǒ",
+  "pos": "noun",
+  "meaning": "fruit",
+  "plain": "shuiguo",
+  "answers": [
+   "shuiguo"
+  ]
+ },
+ {
+  "id": 194,
+  "hanzi": "睡",
+  "pinyin": "shuì",
+  "pos": "verb",
+  "meaning": "to sleep",
+  "plain": "shui",
+  "answers": [
+   "shui"
+  ]
+ },
+ {
+  "id": 195,
+  "hanzi": "睡觉",
+  "pinyin": "shuìjiào",
+  "pos": "verb",
+  "meaning": "to sleep",
+  "plain": "shuijiao",
+  "answers": [
+   "shuijiao"
+  ]
+ },
+ {
+  "id": 196,
+  "hanzi": "说",
+  "pinyin": "shuō",
+  "pos": "verb",
+  "meaning": "to speak, to say",
+  "plain": "shuo",
+  "answers": [
+   "shuo"
+  ]
+ },
+ {
+  "id": 197,
+  "hanzi": "说话",
+  "pinyin": "shuōhuà",
+  "pos": "verb",
+  "meaning": "to talk",
+  "plain": "shuohua",
+  "answers": [
+   "shuohua"
+  ]
+ },
+ {
+  "id": 198,
+  "hanzi": "四",
+  "pinyin": "sì",
+  "pos": "number",
+  "meaning": "four",
+  "plain": "si",
+  "answers": [
+   "si"
+  ]
+ },
+ {
+  "id": 199,
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "pos": "classifier",
+  "meaning": "measure word for age",
+  "plain": "sui",
+  "answers": [
+   "sui"
+  ]
+ },
+ {
+  "id": 200,
+  "hanzi": "他",
+  "pinyin": "tā",
+  "pos": "pronoun",
+  "meaning": "he, him",
+  "plain": "ta",
+  "answers": [
+   "ta"
+  ]
+ },
+ {
+  "id": 201,
+  "hanzi": "它",
+  "pinyin": "tā",
+  "pos": "pronoun",
+  "meaning": "it",
+  "plain": "ta",
+  "answers": [
+   "ta"
+  ]
+ },
+ {
+  "id": 202,
+  "hanzi": "她",
+  "pinyin": "tā",
+  "pos": "pronoun",
+  "meaning": "she",
+  "plain": "ta",
+  "answers": [
+   "ta"
+  ]
+ },
+ {
+  "id": 203,
+  "hanzi": "他们",
+  "pinyin": "tāmen",
+  "pos": "pronoun",
+  "meaning": "they",
+  "plain": "tamen",
+  "answers": [
+   "tamen"
+  ]
+ },
+ {
+  "id": 204,
+  "hanzi": "它们",
+  "pinyin": "tāmen",
+  "pos": "pronoun",
+  "meaning": "they",
+  "plain": "tamen",
+  "answers": [
+   "tamen"
+  ]
+ },
+ {
+  "id": 205,
+  "hanzi": "她们",
+  "pinyin": "tāmen",
+  "pos": "pronoun",
+  "meaning": "they",
+  "plain": "tamen",
+  "answers": [
+   "tamen"
+  ]
+ },
+ {
+  "id": 206,
+  "hanzi": "太",
+  "pinyin": "tài",
+  "pos": "adverb",
+  "meaning": "too, extremely",
+  "plain": "tai",
+  "answers": [
+   "tai"
+  ]
+ },
+ {
+  "id": 207,
+  "hanzi": "天",
+  "pinyin": "tiān",
+  "pos": "noun、classifier",
+  "meaning": "day; measure word for days",
+  "plain": "tian",
+  "answers": [
+   "tian"
+  ]
+ },
+ {
+  "id": 208,
+  "hanzi": "天气",
+  "pinyin": "tiānqì",
+  "pos": "noun",
+  "meaning": "weather",
+  "plain": "tianqi",
+  "answers": [
+   "tianqi"
+  ]
+ },
+ {
+  "id": 209,
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "pos": "verb",
+  "meaning": "to listen",
+  "plain": "ting",
+  "answers": [
+   "ting"
+  ]
+ },
+ {
+  "id": 210,
+  "hanzi": "听见",
+  "pinyin": "tīngjiàn",
+  "pos": "verb",
+  "meaning": "to hear",
+  "plain": "tingjian",
+  "answers": [
+   "tingjian"
+  ]
+ },
+ {
+  "id": 211,
+  "hanzi": "同学",
+  "pinyin": "tóngxué",
+  "pos": "noun",
+  "meaning": "classmate",
+  "plain": "tongxue",
+  "answers": [
+   "tongxue"
+  ]
+ },
+ {
+  "id": 212,
+  "hanzi": "外",
+  "pinyin": "wài",
+  "pos": "noun",
+  "meaning": "outside, exterior",
+  "plain": "wai",
+  "answers": [
+   "wai"
+  ]
+ },
+ {
+  "id": 213,
+  "hanzi": "外边",
+  "pinyin": "wàibian",
+  "pos": "noun",
+  "meaning": "outside",
+  "plain": "waibian",
+  "answers": [
+   "waibian"
+  ]
+ },
+ {
+  "id": 214,
+  "hanzi": "玩",
+  "pinyin": "wán",
+  "pos": "verb",
+  "meaning": "to play",
+  "plain": "wan",
+  "answers": [
+   "wan"
+  ]
+ },
+ {
+  "id": 215,
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "pos": "adjective",
+  "meaning": "late",
+  "plain": "wan",
+  "answers": [
+   "wan"
+  ]
+ },
+ {
+  "id": 216,
+  "hanzi": "晚饭",
+  "pinyin": "wǎnfàn",
+  "pos": "noun",
+  "meaning": "dinner",
+  "plain": "wanfan",
+  "answers": [
+   "wanfan"
+  ]
+ },
+ {
+  "id": 217,
+  "hanzi": "晚上",
+  "pinyin": "wǎnshang",
+  "pos": "noun",
+  "meaning": "evening",
+  "plain": "wanshang",
+  "answers": [
+   "wanshang"
+  ]
+ },
+ {
+  "id": 218,
+  "hanzi": "喂",
+  "pinyin": "wèi",
+  "pos": "interjection",
+  "meaning": "hello used when answering the phone)",
+  "plain": "wei",
+  "answers": [
+   "wei"
+  ]
+ },
+ {
+  "id": 219,
+  "hanzi": "问",
+  "pinyin": "wèn",
+  "pos": "verb",
+  "meaning": "to ask",
+  "plain": "wen",
+  "answers": [
+   "wen"
+  ]
+ },
+ {
+  "id": 220,
+  "hanzi": "问题",
+  "pinyin": "wèntí",
+  "pos": "noun",
+  "meaning": "question",
+  "plain": "wenti",
+  "answers": [
+   "wenti"
+  ]
+ },
+ {
+  "id": 221,
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "pos": "pronoun",
+  "meaning": "I",
+  "plain": "wo",
+  "answers": [
+   "wo"
+  ]
+ },
+ {
+  "id": 222,
+  "hanzi": "我们",
+  "pinyin": "wǒmen",
+  "pos": "pronoun",
+  "meaning": "we",
+  "plain": "women",
+  "answers": [
+   "women"
+  ]
+ },
+ {
+  "id": 223,
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "pos": "number",
+  "meaning": "five",
+  "plain": "wu",
+  "answers": [
+   "wu"
+  ]
+ },
+ {
+  "id": 224,
+  "hanzi": "午饭",
+  "pinyin": "wǔfàn",
+  "pos": "noun",
+  "meaning": "lunch",
+  "plain": "wufan",
+  "answers": [
+   "wufan"
+  ]
+ },
+ {
+  "id": 225,
+  "hanzi": "喜欢",
+  "pinyin": "xǐhuan",
+  "pos": "verb",
+  "meaning": "to like",
+  "plain": "xihuan",
+  "answers": [
+   "xihuan"
+  ]
+ },
+ {
+  "id": 226,
+  "hanzi": "下",
+  "pinyin": "xià",
+  "pos": "noun、verb、 classifier",
+  "meaning": "down, below; to go down; measure word for times",
+  "plain": "xia",
+  "answers": [
+   "xia"
+  ]
+ },
+ {
+  "id": 227,
+  "hanzi": "下雨",
+  "pinyin": "xià yǔ",
+  "pos": "",
+  "meaning": "to rain",
+  "plain": "xiayu",
+  "answers": [
+   "xiayu"
+  ]
+ },
+ {
+  "id": 228,
+  "hanzi": "下班",
+  "pinyin": "xiàbān",
+  "pos": "verb",
+  "meaning": "to get off work",
+  "plain": "xiaban",
+  "answers": [
+   "xiaban"
+  ]
+ },
+ {
+  "id": 229,
+  "hanzi": "下课",
+  "pinyin": "xiàkè",
+  "pos": "verb",
+  "meaning": "to finish class",
+  "plain": "xiake",
+  "answers": [
+   "xiake"
+  ]
+ },
+ {
+  "id": 230,
+  "hanzi": "下午",
+  "pinyin": "xiàwǔ",
+  "pos": "noun",
+  "meaning": "afternoon",
+  "plain": "xiawu",
+  "answers": [
+   "xiawu"
+  ]
+ },
+ {
+  "id": 231,
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "pos": "noun",
+  "meaning": "Mr., husband",
+  "plain": "xiansheng",
+  "answers": [
+   "xiansheng"
+  ]
+ },
+ {
+  "id": 232,
+  "hanzi": "现在",
+  "pinyin": "xiànzài",
+  "pos": "noun",
+  "meaning": "now",
+  "plain": "xianzai",
+  "answers": [
+   "xianzai"
+  ]
+ },
+ {
+  "id": 233,
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "pos": "verb",
+  "meaning": "to think; to want",
+  "plain": "xiang",
+  "answers": [
+   "xiang"
+  ]
+ },
+ {
+  "id": 234,
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "pos": "adjective、prefix",
+  "meaning": "small; prefix indicating small size or endearment",
+  "plain": "xiao",
+  "answers": [
+   "xiao"
+  ]
+ },
+ {
+  "id": 235,
+  "hanzi": "小朋友",
+  "pinyin": "xiǎopéngyǒu",
+  "pos": "noun",
+  "meaning": "little friend, child",
+  "plain": "xiaopengyou",
+  "answers": [
+   "xiaopengyou"
+  ]
+ },
+ {
+  "id": 236,
+  "hanzi": "小时",
+  "pinyin": "xiǎoshí",
+  "pos": "noun",
+  "meaning": "hour",
+  "plain": "xiaoshi",
+  "answers": [
+   "xiaoshi"
+  ]
+ },
+ {
+  "id": 237,
+  "hanzi": "小学",
+  "pinyin": "xiǎoxué",
+  "pos": "noun",
+  "meaning": "primary school",
+  "plain": "xiaoxue",
+  "answers": [
+   "xiaoxue"
+  ]
+ },
+ {
+  "id": 238,
+  "hanzi": "小学生",
+  "pinyin": "xiǎoxuéshēng",
+  "pos": "noun",
+  "meaning": "primary school student",
+  "plain": "xiaoxuesheng",
+  "answers": [
+   "xiaoxuesheng"
+  ]
+ },
+ {
+  "id": 239,
+  "hanzi": "些",
+  "pinyin": "xiē",
+  "pos": "classifier",
+  "meaning": "measure word for an indefinite amount",
+  "plain": "xie",
+  "answers": [
+   "xie"
+  ]
+ },
+ {
+  "id": 240,
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "pos": "verb",
+  "meaning": "to write",
+  "plain": "xie",
+  "answers": [
+   "xie"
+  ]
+ },
+ {
+  "id": 241,
+  "hanzi": "谢谢",
+  "pinyin": "xièxie",
+  "pos": "verb",
+  "meaning": "to thank",
+  "plain": "xiexie",
+  "answers": [
+   "xiexie"
+  ]
+ },
+ {
+  "id": 242,
+  "hanzi": "新",
+  "pinyin": "xīn",
+  "pos": "adjective",
+  "meaning": "new",
+  "plain": "xin",
+  "answers": [
+   "xin"
+  ]
+ },
+ {
+  "id": 243,
+  "hanzi": "星期",
+  "pinyin": "xīngqī",
+  "pos": "noun",
+  "meaning": "week",
+  "plain": "xingqi",
+  "answers": [
+   "xingqi"
+  ]
+ },
+ {
+  "id": 244,
+  "hanzi": "星期日",
+  "pinyin": "xīngqīrì",
+  "pos": "noun",
+  "meaning": "Sunday",
+  "plain": "xingqiri",
+  "answers": [
+   "xingqiri"
+  ]
+ },
+ {
+  "id": 245,
+  "hanzi": "星期天",
+  "pinyin": "xīngqītiān",
+  "pos": "noun",
+  "meaning": "Sunday",
+  "plain": "xingqitian",
+  "answers": [
+   "xingqitian"
+  ]
+ },
+ {
+  "id": 246,
+  "hanzi": "休息",
+  "pinyin": "xiūxi",
+  "pos": "verb",
+  "meaning": "to rest",
+  "plain": "xiuxi",
+  "answers": [
+   "xiuxi"
+  ]
+ },
+ {
+  "id": 247,
+  "hanzi": "学",
+  "pinyin": "xué",
+  "pos": "verb",
+  "meaning": "to learn, to study",
+  "plain": "xue",
+  "answers": [
+   "xue"
+  ]
+ },
+ {
+  "id": 248,
+  "hanzi": "学生",
+  "pinyin": "xuéshēng",
+  "pos": "noun",
+  "meaning": "student",
+  "plain": "xuesheng",
+  "answers": [
+   "xuesheng"
+  ]
+ },
+ {
+  "id": 249,
+  "hanzi": "学习",
+  "pinyin": "xuéxí",
+  "pos": "verb",
+  "meaning": "to study",
+  "plain": "xuexi",
+  "answers": [
+   "xuexi"
+  ]
+ },
+ {
+  "id": 250,
+  "hanzi": "学校",
+  "pinyin": "xuéxiào",
+  "pos": "noun",
+  "meaning": "school",
+  "plain": "xuexiao",
+  "answers": [
+   "xuexiao"
+  ]
+ },
+ {
+  "id": 251,
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "pos": "noun",
+  "meaning": "snow",
+  "plain": "xue",
+  "answers": [
+   "xue"
+  ]
+ },
+ {
+  "id": 252,
+  "hanzi": "要",
+  "pinyin": "yào",
+  "pos": "verb",
+  "meaning": "to want, to need",
+  "plain": "yao",
+  "answers": [
+   "yao"
+  ]
+ },
+ {
+  "id": 253,
+  "hanzi": "也",
+  "pinyin": "yě",
+  "pos": "adverb",
+  "meaning": "also, too",
+  "plain": "ye",
+  "answers": [
+   "ye"
+  ]
+ },
+ {
+  "id": 254,
+  "hanzi": "一",
+  "pinyin": "yī",
+  "pos": "number",
+  "meaning": "one",
+  "plain": "yi",
+  "answers": [
+   "yi"
+  ]
+ },
+ {
+  "id": 255,
+  "hanzi": "衣服",
+  "pinyin": "yīfu",
+  "pos": "noun",
+  "meaning": "clothes",
+  "plain": "yifu",
+  "answers": [
+   "yifu"
+  ]
+ },
+ {
+  "id": 256,
+  "hanzi": "医生",
+  "pinyin": "yīshēng",
+  "pos": "noun",
+  "meaning": "doctor",
+  "plain": "yisheng",
+  "answers": [
+   "yisheng"
+  ]
+ },
+ {
+  "id": 257,
+  "hanzi": "医院",
+  "pinyin": "yīyuàn",
+  "pos": "noun",
+  "meaning": "hospital",
+  "plain": "yiyuan",
+  "answers": [
+   "yiyuan"
+  ]
+ },
+ {
+  "id": 258,
+  "hanzi": "一半",
+  "pinyin": "yíbàn",
+  "pos": "number",
+  "meaning": "half",
+  "plain": "yiban",
+  "answers": [
+   "yiban"
+  ]
+ },
+ {
+  "id": 259,
+  "hanzi": "一下",
+  "pinyin": "yíxià",
+  "pos": "numberclassifier、 （adverb）",
+  "meaning": "once, a little; (in a short while)",
+  "plain": "yixia",
+  "answers": [
+   "yixia"
+  ]
+ },
+ {
+  "id": 260,
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "pos": "noun",
+  "meaning": "chair",
+  "plain": "yizi",
+  "answers": [
+   "yizi"
+  ]
+ },
+ {
+  "id": 261,
+  "hanzi": "一点儿",
+  "pinyin": "yìdiǎnr",
+  "pos": "number-classifier",
+  "meaning": "a little, a bit",
+  "plain": "yidianr",
+  "answers": [
+   "yidianr"
+  ]
+ },
+ {
+  "id": 262,
+  "hanzi": "一些",
+  "pinyin": "yìxiē",
+  "pos": "number-classifier",
+  "meaning": "some, a few",
+  "plain": "yixie",
+  "answers": [
+   "yixie"
+  ]
+ },
+ {
+  "id": 263,
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "pos": "verb",
+  "meaning": "to have, to exist",
+  "plain": "you",
+  "answers": [
+   "you"
+  ]
+ },
+ {
+  "id": 264,
+  "hanzi": "有的",
+  "pinyin": "yǒude",
+  "pos": "pronoun",
+  "meaning": "some of them",
+  "plain": "youde",
+  "answers": [
+   "youde"
+  ]
+ },
+ {
+  "id": 265,
+  "hanzi": "有点儿",
+  "pinyin": "yǒudiǎnr",
+  "pos": "adverb",
+  "meaning": "a little, slightly",
+  "plain": "youdianr",
+  "answers": [
+   "youdianr"
+  ]
+ },
+ {
+  "id": 266,
+  "hanzi": "有些",
+  "pinyin": "yǒuxiē",
+  "pos": "pronoun、 （adverb）",
+  "meaning": "some, some of; (somewhat, rather)",
+  "plain": "youxie",
+  "answers": [
+   "youxie"
+  ]
+ },
+ {
+  "id": 267,
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "pos": "noun",
+  "meaning": "rain",
+  "plain": "yu",
+  "answers": [
+   "yu"
+  ]
+ },
+ {
+  "id": 268,
+  "hanzi": "元",
+  "pinyin": "yuán",
+  "pos": "classifier",
+  "meaning": "yuan",
+  "plain": "yuan",
+  "answers": [
+   "yuan"
+  ]
+ },
+ {
+  "id": 269,
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "pos": "noun",
+  "meaning": "month; moon",
+  "plain": "yue",
+  "answers": [
+   "yue"
+  ]
+ },
+ {
+  "id": 270,
+  "hanzi": "再",
+  "pinyin": "zài",
+  "pos": "adverb",
+  "meaning": "again, then",
+  "plain": "zai",
+  "answers": [
+   "zai"
+  ]
+ },
+ {
+  "id": 271,
+  "hanzi": "在",
+  "pinyin": "zài",
+  "pos": "verb、 preposition、 adverb",
+  "meaning": "to be at; at; in the middle of",
+  "plain": "zai",
+  "answers": [
+   "zai"
+  ]
+ },
+ {
+  "id": 272,
+  "hanzi": "再见",
+  "pinyin": "zàijiàn",
+  "pos": "verb",
+  "meaning": "goodbye",
+  "plain": "zaijian",
+  "answers": [
+   "zaijian"
+  ]
+ },
+ {
+  "id": 273,
+  "hanzi": "早",
+  "pinyin": "zǎo",
+  "pos": "adjective",
+  "meaning": "early",
+  "plain": "zao",
+  "answers": [
+   "zao"
+  ]
+ },
+ {
+  "id": 274,
+  "hanzi": "早饭",
+  "pinyin": "zǎofàn",
+  "pos": "noun",
+  "meaning": "breakfast",
+  "plain": "zaofan",
+  "answers": [
+   "zaofan"
+  ]
+ },
+ {
+  "id": 275,
+  "hanzi": "早上",
+  "pinyin": "zǎoshang",
+  "pos": "noun",
+  "meaning": "morning",
+  "plain": "zaoshang",
+  "answers": [
+   "zaoshang"
+  ]
+ },
+ {
+  "id": 276,
+  "hanzi": "怎么",
+  "pinyin": "zěnme",
+  "pos": "pronoun",
+  "meaning": "how",
+  "plain": "zenme",
+  "answers": [
+   "zenme"
+  ]
+ },
+ {
+  "id": 277,
+  "hanzi": "怎么样",
+  "pinyin": "zěnmeyàng",
+  "pos": "pronoun",
+  "meaning": "how about, what do you think",
+  "plain": "zenmeyang",
+  "answers": [
+   "zenmeyang"
+  ]
+ },
+ {
+  "id": 278,
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "pos": "verb",
+  "meaning": "to look for",
+  "plain": "zhao",
+  "answers": [
+   "zhao"
+  ]
+ },
+ {
+  "id": 279,
+  "hanzi": "这",
+  "pinyin": "zhè",
+  "pos": "pronoun",
+  "meaning": "this",
+  "plain": "zhe",
+  "answers": [
+   "zhe"
+  ]
+ },
+ {
+  "id": 280,
+  "hanzi": "这边",
+  "pinyin": "zhèbiān",
+  "pos": "pronoun",
+  "meaning": "here",
+  "plain": "zhebian",
+  "answers": [
+   "zhebian"
+  ]
+ },
+ {
+  "id": 281,
+  "hanzi": "这个",
+  "pinyin": "zhège",
+  "pos": "pronoun",
+  "meaning": "this one",
+  "plain": "zhege",
+  "answers": [
+   "zhege"
+  ]
+ },
+ {
+  "id": 282,
+  "hanzi": "这里",
+  "pinyin": "zhèlǐ",
+  "pos": "pronoun",
+  "meaning": "here",
+  "plain": "zheli",
+  "answers": [
+   "zheli"
+  ]
+ },
+ {
+  "id": 283,
+  "hanzi": "这儿",
+  "pinyin": "zhèr",
+  "pos": "pronoun",
+  "meaning": "here",
+  "plain": "zher",
+  "answers": [
+   "zher"
+  ]
+ },
+ {
+  "id": 284,
+  "hanzi": "这些",
+  "pinyin": "zhèxiē",
+  "pos": "pronoun",
+  "meaning": "these",
+  "plain": "zhexie",
+  "answers": [
+   "zhexie"
+  ]
+ },
+ {
+  "id": 285,
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "pos": "adverb、 （adjective）",
+  "meaning": "really; (true)",
+  "plain": "zhen",
+  "answers": [
+   "zhen"
+  ]
+ },
+ {
+  "id": 286,
+  "hanzi": "正在",
+  "pinyin": "zhèngzài",
+  "pos": "adverb",
+  "meaning": "in the process of",
+  "plain": "zhengzai",
+  "answers": [
+   "zhengzai"
+  ]
+ },
+ {
+  "id": 287,
+  "hanzi": "只",
+  "pinyin": "zhī",
+  "pos": "classifier",
+  "meaning": "measure word for animals, one of a pair",
+  "plain": "zhi",
+  "answers": [
+   "zhi"
+  ]
+ },
+ {
+  "id": 288,
+  "hanzi": "知道",
+  "pinyin": "zhīdào",
+  "pos": "verb",
+  "meaning": "to know",
+  "plain": "zhidao",
+  "answers": [
+   "zhidao"
+  ]
+ },
+ {
+  "id": 289,
+  "hanzi": "中国",
+  "pinyin": "Zhōngguó",
+  "pos": "noun",
+  "meaning": "China",
+  "plain": "zhongguo",
+  "answers": [
+   "zhongguo"
+  ]
+ },
+ {
+  "id": 290,
+  "hanzi": "中文",
+  "pinyin": "Zhōngwén",
+  "pos": "noun",
+  "meaning": "Chinese language",
+  "plain": "zhongwen",
+  "answers": [
+   "zhongwen"
+  ]
+ },
+ {
+  "id": 291,
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "pos": "noun",
+  "meaning": "noon",
+  "plain": "zhongwu",
+  "answers": [
+   "zhongwu"
+  ]
+ },
+ {
+  "id": 292,
+  "hanzi": "中学",
+  "pinyin": "zhōngxué",
+  "pos": "noun",
+  "meaning": "middle school",
+  "plain": "zhongxue",
+  "answers": [
+   "zhongxue"
+  ]
+ },
+ {
+  "id": 293,
+  "hanzi": "中学生",
+  "pinyin": "zhōngxuéshēng",
+  "pos": "noun",
+  "meaning": "middle school student",
+  "plain": "zhongxuesheng",
+  "answers": [
+   "zhongxuesheng"
+  ]
+ },
+ {
+  "id": 294,
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "pos": "verb",
+  "meaning": "to live, to reside",
+  "plain": "zhu",
+  "answers": [
+   "zhu"
+  ]
+ },
+ {
+  "id": 295,
+  "hanzi": "桌子",
+  "pinyin": "zhuōzi",
+  "pos": "noun",
+  "meaning": "table, desk",
+  "plain": "zhuozi",
+  "answers": [
+   "zhuozi"
+  ]
+ },
+ {
+  "id": 296,
+  "hanzi": "字",
+  "pinyin": "zì",
+  "pos": "noun",
+  "meaning": "character, script",
+  "plain": "zi",
+  "answers": [
+   "zi"
+  ]
+ },
+ {
+  "id": 297,
+  "hanzi": "昨天",
+  "pinyin": "zuótiān",
+  "pos": "noun",
+  "meaning": "yesterday",
+  "plain": "zuotian",
+  "answers": [
+   "zuotian"
+  ]
+ },
+ {
+  "id": 298,
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "pos": "verb",
+  "meaning": "to sit",
+  "plain": "zuo",
+  "answers": [
+   "zuo"
+  ]
+ },
+ {
+  "id": 299,
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "pos": "verb",
+  "meaning": "to do, to make",
+  "plain": "zuo",
+  "answers": [
+   "zuo"
+  ]
+ },
+ {
+  "id": 300,
+  "hanzi": "做饭",
+  "pinyin": "zuò fàn",
+  "pos": "",
+  "meaning": "to cook",
+  "plain": "zuofan",
+  "answers": [
+   "zuofan"
+  ]
+ }
+]
